@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommand>D:\DEV\gDOS-SZ2013-Summer\gdos-visualsvr\VisualSolution\x64\Debug\FeatureMapBuilder.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>build 11 d.vti 3 7</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

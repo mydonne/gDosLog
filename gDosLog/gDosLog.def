@@ -1,0 +1,7 @@
+LIBRARY "gDosLog"
+
+EXPORTS
+	InitLog				@1
+	ExitLog				@2
+	WriteString			@3
+	WriteTypedString	@4

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gDosLogDemo", "gDosLogDemo\gDosLogDemo.vcxproj", "{7706CB04-5BE3-42D7-8CF7-BE8179543A11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gDosLog", "gDosLog\gDosLog.vcxproj", "{7FA9B6B9-A2F3-4FD8-B2A1-CB6A5B4536C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7706CB04-5BE3-42D7-8CF7-BE8179543A11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7706CB04-5BE3-42D7-8CF7-BE8179543A11}.Debug|Win32.Build.0 = Debug|Win32
+		{7706CB04-5BE3-42D7-8CF7-BE8179543A11}.Debug|x64.ActiveCfg = Debug|x64
+		{7706CB04-5BE3-42D7-8CF7-BE8179543A11}.Debug|x64.Build.0 = Debug|x64
+		{7706CB04-5BE3-42D7-8CF7-BE8179543A11}.Release|Win32.ActiveCfg = Release|Win32
+		{7706CB04-5BE3-42D7-8CF7-BE8179543A11}.Release|Win32.Build.0 = Release|Win32
+		{7706CB04-5BE3-42D7-8CF7-BE8179543A11}.Release|x64.ActiveCfg = Release|x64
+		{7706CB04-5BE3-42D7-8CF7-BE8179543A11}.Release|x64.Build.0 = Release|x64
+		{7FA9B6B9-A2F3-4FD8-B2A1-CB6A5B4536C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7FA9B6B9-A2F3-4FD8-B2A1-CB6A5B4536C2}.Debug|Win32.Build.0 = Debug|Win32
+		{7FA9B6B9-A2F3-4FD8-B2A1-CB6A5B4536C2}.Debug|x64.ActiveCfg = Debug|x64
+		{7FA9B6B9-A2F3-4FD8-B2A1-CB6A5B4536C2}.Debug|x64.Build.0 = Debug|x64
+		{7FA9B6B9-A2F3-4FD8-B2A1-CB6A5B4536C2}.Release|Win32.ActiveCfg = Release|Win32
+		{7FA9B6B9-A2F3-4FD8-B2A1-CB6A5B4536C2}.Release|Win32.Build.0 = Release|Win32
+		{7FA9B6B9-A2F3-4FD8-B2A1-CB6A5B4536C2}.Release|x64.ActiveCfg = Release|x64
+		{7FA9B6B9-A2F3-4FD8-B2A1-CB6A5B4536C2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

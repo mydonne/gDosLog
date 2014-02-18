@@ -1,0 +1,1 @@
+gDosLogLoader.h和gDosLogLoader.cpp请添加到您的工程中编译。
